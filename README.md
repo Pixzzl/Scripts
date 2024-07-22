@@ -1,0 +1,2 @@
+# namelessadmin
+Admin script
