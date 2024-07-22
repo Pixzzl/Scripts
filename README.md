@@ -1,2 +1,1 @@
-# namelessadmin
-Admin script
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Pixzzl/namelessadmin/main/main'))()
